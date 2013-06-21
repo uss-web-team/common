@@ -1,4 +1,4 @@
-student-projects
-================
+common
+======
 
-Training projects for student interns.
+Shared repository for USS internal resources.
