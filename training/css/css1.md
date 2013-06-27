@@ -42,6 +42,10 @@ Set the following properties to values you think look good:
 
 To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-and-tricks-for-more-legible-content/) on readability in web documents.
 
+### Fonts
+
+
+
 ### Selectors
 
 Add new CSS code to make all paragraphs except the first indented.
