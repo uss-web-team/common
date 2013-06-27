@@ -30,14 +30,14 @@ body {
 
 Set the following properties to values you think look good:
 
-* width
-* margin
-* font-family
-* font-size
-* color
-* line-height
-* text-align
-* letter-spacing
+* `width`
+* `margin`
+* `font-family`
+* `font-size`
+* `color`
+* `line-height`
+* `text-align`
+* `letter-spacing`
 
 Read the following articles for ideas:
 
