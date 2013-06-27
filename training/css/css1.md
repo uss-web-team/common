@@ -34,10 +34,11 @@ Set the following properties to values you think look good:
 * `margin`
 * `font-family`
 * `font-size`
-* `color`
 * `line-height`
 * `text-align`
 * `letter-spacing`
+* `color`
+* `background-color`
 
 To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-and-tricks-for-more-legible-content/) on readability in web documents.
 
