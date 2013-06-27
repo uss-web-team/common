@@ -20,4 +20,4 @@ In this exercise, you are going to make the html look much nicer than Gutenberg 
 
 ### Selectors
 
-Add CSS code for the <body> tag.
+Add CSS code for the `<body>` tag.
