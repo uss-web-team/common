@@ -42,4 +42,6 @@ Set the following properties to values you think look good:
 
 To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-and-tricks-for-more-legible-content/) on readability in web documents.
 
-When you're done, show your work to a coworker and get their feedback.
+### Feedback
+
+When you're done, show your work to a coworker and get their feedback. Make changes so that everyone is happy.
