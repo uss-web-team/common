@@ -4,7 +4,7 @@
 
 http://www.w3.org/community/webed/wiki/CSS/Training
 
-## References
+## Bookmarks
 
 http://www.w3.org/community/webed/wiki/CSS
 
