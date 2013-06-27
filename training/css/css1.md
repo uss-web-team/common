@@ -21,3 +21,12 @@ In this exercise, you are going to make the html look much nicer than Gutenberg 
 ### Selectors
 
 Add CSS code for the `<body>` tag.
+
+Set the following properties:
+
+* width
+* margin
+* font-family
+* font-size
+* color
+* line-height
