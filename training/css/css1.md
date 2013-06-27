@@ -1,10 +1,10 @@
 # CSS
 
-## Background Reading
+## Reading
 
 http://www.w3.org/community/webed/wiki/CSS/Training
 
-## Useful Bookmarks
+## Bookmarks
 
 http://www.w3.org/community/webed/wiki/CSS
 
