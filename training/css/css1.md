@@ -18,7 +18,7 @@ The source of this html is borrowed from [Project Gutenberg](http://www.gutenber
 
 In this exercise, you are going to make the html look much nicer than Gutenberg does.
 
-### General formatting
+### General text formatting
 
 Add new CSS code for the `<body>` tag.
 
@@ -37,6 +37,10 @@ Set the following properties to values you think look good:
 * color
 * line-height
 * text-align
-* 
+* letter-spacing
+
+Read the following articles for ideas:
+
+* readability
 
 When you're done, show your work to a coworker and get their feedback.
