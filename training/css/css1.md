@@ -46,7 +46,7 @@ To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-
 
 By default, you have only the browser's fonts to work with. Across you browsers, you can be certain of little more than a common `monospace`, `sans-serif`, and `serif` family font. Sometimes these fonts look really nice. Other times you want your text to stand out.
 
-Experiment with importing a custom font. Google offers a font-hosting service you can [experiment with](http://www.google.com/fonts/).
+Try importing a custom font. Google offers a font-hosting service you can [experiment with](http://www.google.com/fonts/).
 
 ### Selectors
 
