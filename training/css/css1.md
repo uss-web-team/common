@@ -8,10 +8,6 @@ http://www.w3.org/community/webed/wiki/CSS/Training
 
 http://www.w3.org/community/webed/wiki/CSS
 
-## Exercises
+## Exercise
 
-### 1
-
-### 2
-
-### 3
+Create a working copy of the [HTML template](css1.html).
