@@ -44,7 +44,7 @@ To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-
 
 ### Selectors
 
-Add new CSS code to make the all paragraphs except the first indented.
+Add new CSS code to make all paragraphs except the first indented.
 
 ```css
 p + p {
