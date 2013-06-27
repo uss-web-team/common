@@ -18,11 +18,17 @@ The source of this html is borrowed from [Project Gutenberg](http://www.gutenber
 
 In this exercise, you are going to make the html look much nicer than Gutenberg does.
 
-### Selectors
+### General formatting
 
-Add CSS code for the `<body>` tag.
+Add new CSS code for the `<body>` tag.
 
-Set the following properties:
+```css
+body {
+  /* your properties go here */
+}
+```
+
+Set the following properties to values you think look good:
 
 * width
 * margin
@@ -30,3 +36,7 @@ Set the following properties:
 * font-size
 * color
 * line-height
+* text-align
+* 
+
+When you're done, show your work to a coworker and get their feedback.
