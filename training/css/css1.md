@@ -54,7 +54,7 @@ p + p {
 
 Add new CSS code to make the first letter of the first paragraph of the chapter stand out.
 
-You may find the W3 documentation on [Selectors](http://www.w3.org/community/webed/wiki/CSS/Selectors) helpful.
+You may find the W3C documentation on [Selectors](http://www.w3.org/community/webed/wiki/CSS/Selectors) helpful.
 
 ### Feedback
 
