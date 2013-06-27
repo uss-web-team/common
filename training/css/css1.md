@@ -39,8 +39,6 @@ Set the following properties to values you think look good:
 * `text-align`
 * `letter-spacing`
 
-Read the following articles for ideas:
-
-* readability
+To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-and-tricks-for-more-legible-content/) on readability in web documents.
 
 When you're done, show your work to a coworker and get their feedback.
