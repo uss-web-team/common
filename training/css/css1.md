@@ -42,6 +42,20 @@ Set the following properties to values you think look good:
 
 To get some ideas, read this [blog post](http://www.uxbooth.com/articles/4-tips-and-tricks-for-more-legible-content/) on readability in web documents.
 
+### Selectors
+
+Add new CSS code to make the all paragraphs except the first indented.
+
+```css
+p + p {
+  /* your code goes here */
+}
+```
+
+Add new CSS code to make the first letter of the first paragraph of the chapter stand out.
+
+You may find the W3 documentation on [Selectors](http://www.w3.org/community/webed/wiki/CSS/Selectors) helpful.
+
 ### Feedback
 
 When you're done, show your work to a coworker and get their feedback. Make changes so that everyone is happy.
