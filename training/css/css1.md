@@ -51,7 +51,7 @@ Try importing a custom font. Google offers a font-hosting service you can [exper
 
 ### Media
 
-By default, your CSS will be used for all [media](http://www.w3.org/TR/CSS2/media.html) in which the HTML is viewed. Add a new CSS rule just for the `print` media. Remember to use the [recommended units](http://www.w3.org/Style/Examples/007/units.en.html) for each media.
+By default, your CSS will be used for the `screen` [media](http://www.w3.org/TR/CSS2/media.html), and potentially any other media from  which the HTML is viewed. Without specification, this decision is left to the rendering device. To be specific, add a new CSS rule just for the `print` media. Remember to use the [recommended units](http://www.w3.org/Style/Examples/007/units.en.html) for each media.
 
 You can test your `print` media style in a browser that supports `print` media by ... .
 
