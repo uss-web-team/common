@@ -49,6 +49,10 @@ By default, you have only the browser's fonts to work with. Across browsers, you
 
 Try importing a custom font. Google offers a font-hosting service you can [experiment with](http://www.google.com/fonts/).
 
+### Media
+
+By default, your CSS will be used for all [media](http://www.w3.org/TR/CSS2/media.html) in which the HTML is viewed. Add a new CSS rule just for the `print` media. Remember to use the [appropriate units](http://www.w3.org/Style/Examples/007/units.en.html).
+
 ### Selectors
 
 Add new CSS code to make all paragraphs except the first indented.
