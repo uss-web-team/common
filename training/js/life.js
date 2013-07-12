@@ -4,6 +4,6 @@
     /* Your code goes here */
     
     this.Life = {
-        init: function() {console.log("Unimplemented!")}
+        init: function(canvas) {console.log("Unimplemented!")}
     };
 }).call(this);
