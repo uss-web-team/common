@@ -20,6 +20,8 @@ Different perspectives on Javascript styles for your consideration (they disagre
 
 Using the [`<canvas>` element](http://www.w3.org/TR/2dcontext2/), please write [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
+There are skeleton [html](life.html) and [js](life.js) files to get you started.
+
 ### Data Modeling
 
 Design your game as an [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller). That is, your data model shouldn't contain any view or controller instructions, your view should not directly manipulate data, etc.
