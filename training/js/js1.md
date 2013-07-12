@@ -18,7 +18,7 @@ Different perspectives on Javascript styles for your consideration (they disagre
 
 ### Overview
 
-Using the [<canvas> element](http://www.w3.org/TR/2dcontext2/), please write [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+Using the [`<canvas>` element](http://www.w3.org/TR/2dcontext2/), please write [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ### Data Modeling
 
@@ -26,9 +26,9 @@ Design your game as an [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%
 
 ### Event-based programming
 
-Please write event handlers to *Start*, *Stop*, and *Erase* the simulation, and attach these to <button> elements.
+Please write event handlers to *Start*, *Stop*, and *Erase* the simulation, and attach these to `<button>` elements.
 
-Clicking on a pixel in the <canvas> element should toggle a cell from dead-to-alive.
+Clicking on a pixel in the `<canvas>` element should toggle a cell from dead-to-alive.
 
 ### Code Isolation
 
