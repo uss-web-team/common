@@ -2,7 +2,7 @@
 
 ## Reading
 
-http://javascript.crockford.com/code.html
-http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* http://javascript.crockford.com/code.html
+* http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
 
 ## Bookmarks
