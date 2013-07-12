@@ -7,9 +7,9 @@ Please read *all* of these:
 * http://javascript.crockford.com/inheritance.html
  
 Javascript styles for your consideration (they disagree on some decisions, but what do they suggest in common?):
-* http://javascript.crockford.com/code.html
-* http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
-* https://github.com/airbnb/javascript
+* Architect: http://javascript.crockford.com/code.html
+* Corporate: http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* Freelance: https://github.com/airbnb/javascript
 
 ## Bookmarks
 
