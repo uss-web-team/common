@@ -1,10 +1,9 @@
-# Javascript in the browser
+# Introduction to Javascript
 
 ## Reading
 
-Please read *all* of these:
+Please read MDN's guide:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
-* http://javascript.crockford.com/inheritance.html
  
 Different perspectives on Javascript styles for your consideration (they disagree on some things, but what do they suggest in common?):
 * Architect: http://javascript.crockford.com/code.html
