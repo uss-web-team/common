@@ -18,9 +18,19 @@ Different perspectives on Javascript styles for your consideration (they disagre
 
 ### Overview
 
-Using the [`<canvas>` element](http://www.w3.org/TR/2dcontext2/), please write [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+Using the `<canvas>` element, please write [Conway's Game of Life](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 There are skeleton [html](life.html) and [js](life.js) files to get you started.
+
+### Canvas
+
+For this exercise, you will be using the [2D Context]((http://www.w3.org/TR/2dcontext2/) for `<canvas>`.
+
+Drawing basic shapes is straightforward:
+```javascript
+var ctx = canvas.getContext('2d');
+ctx.fillRect(x, y, w, h);
+```
 
 ### Data Modeling
 
