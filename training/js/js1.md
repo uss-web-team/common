@@ -24,7 +24,7 @@ There are skeleton [html](life.html) and [js](life.js) files to get you started.
 
 ### Canvas
 
-For this exercise, you will be using the [2D Context]((http://www.w3.org/TR/2dcontext2/) for `<canvas>`.
+For this exercise, you will be using the [2D Context](http://www.w3.org/TR/2dcontext2/) for `<canvas>`.
 
 Drawing basic shapes is straightforward:
 ```javascript
