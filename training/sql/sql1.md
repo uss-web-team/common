@@ -8,8 +8,8 @@ For starters, please read:
 
 ## Bookmarks
 
-* [SQLPlus Command Reference](http://docs.oracle.com/cd/B19306_01/server.102/b14357/ch12.htm#sthref1725)
 * [Oracle DB SQL Reference](http://docs.oracle.com/cd/B19306_01/server.102/b14200/toc.htm)
+* [SQLPlus Command Reference](http://docs.oracle.com/cd/B19306_01/server.102/b14357/ch12.htm#sthref1725)
 
 ## Exercise
 
