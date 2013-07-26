@@ -8,6 +8,7 @@ For starters, please read:
 
 ## Bookmarks
 
+* [SQLPlus Command Reference](http://docs.oracle.com/cd/B19306_01/server.102/b14357/ch12.htm#sthref1725)
 * [Oracle DB SQL Reference](http://docs.oracle.com/cd/B19306_01/server.102/b14200/toc.htm)
 
 ## Exercise
@@ -22,7 +23,7 @@ There is a table called `COUNTRY`.
 
 ### Basic statements
 
-The [desc]() statement.
+The [desc](http://docs.oracle.com/cd/B19306_01/server.102/b14357/ch12019.htm) statement.
 ```sql
 -- Inspect the columns of this table.
 desc country;
