@@ -1,5 +1,0 @@
-# Network Programming
-
-ajax
-
-websockets
