@@ -2,6 +2,7 @@
 
 ## Reading
 
+For starters,
 * [Queries](https://en.wikipedia.org/wiki/SQL#Queries)
 * [Manipulation](https://en.wikipedia.org/wiki/SQL#Data_manipulation)
 
