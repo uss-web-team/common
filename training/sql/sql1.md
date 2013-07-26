@@ -19,9 +19,9 @@ Connect to the following URL (ask a coworker for login credentials):
 jdbc:oracle:thin:@dev10db.it.utah.edu:1528:dev10
 ```
 
-There is a table called `COUNTRY`.
-
 ### Basic statements
+
+There is a table called `COUNTRY` in this database.
 
 The [desc](http://docs.oracle.com/cd/B19306_01/server.102/b14357/ch12019.htm) statement.
 ```sql
