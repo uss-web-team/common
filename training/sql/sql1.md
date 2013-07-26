@@ -13,9 +13,9 @@ jdbc:oracle:thin:@dev10db.it.utah.edu:1528:dev10
 There is a table called `COUNTRY`.
 
 ```sql
-desc country
+desc country;
 ```
 
 ```sql
-select * from country
+select * from country;
 ```
