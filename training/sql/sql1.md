@@ -2,7 +2,7 @@
 
 ## Reading
 
-For starters,
+For starters, please read:
 * [Queries](https://en.wikipedia.org/wiki/SQL#Queries)
 * [Manipulation](https://en.wikipedia.org/wiki/SQL#Data_manipulation)
 
@@ -38,3 +38,9 @@ select * from country;
 -- Retrieve all columns for all rows in country where the country begins with the letter 'A'.
 select * from country where country_name like 'A%';
 ```
+
+Please write a query for all countries that end with 'stan', such as Turkmenistan;
+
+Please write a query for all countries that call themselves a 'Republic'.
+
+Please write a query for all countries that either begin with a vowel ('A', 'E', 'I', 'O', 'U') **and** end in 'ia', such as Albania.
