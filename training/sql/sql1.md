@@ -12,7 +12,7 @@ For starters, please read:
 
 ## Exercise
 
-Connect to the following URL:
+Connect to the following URL (ask a coworker for login credentials):
 
 ```
 jdbc:oracle:thin:@dev10db.it.utah.edu:1528:dev10
