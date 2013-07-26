@@ -42,6 +42,14 @@ select * from country where country_name like 'A%';
 
 Please write a query for all countries that end with 'stan', such as Turkmenistan;
 
-Please write a query for all countries that call themselves a 'Republic'.
+Please write a query for all countries that call themselves a 'Republic', and sort the results from Z to A.
 
 Please write a query for all countries that either begin with a vowel ('A', 'E', 'I', 'O', 'U') **and** end in 'ia', such as Albania.
+
+### Data Manipulation
+
+insert
+
+update
+
+### unions, joins, ...
