@@ -50,6 +50,6 @@ Please write a query for all countries that either begin with a vowel ('A', 'E',
 
 Using the [insert](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_9014.htm#i2163698) statement, add a new country of your imagination to the table.
 
-There was a revolution in your imaginary country! Using the [update](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10007.htm#i2067715) statement, try to change your country's name from Foobaria to *The People's Democratic Republic of* Foobaria.
+There was a revolution in your imaginary country! Using the [update](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10007.htm#i2067715) statement, try to change your country's name from Elbonia to *The People's Democratic Republic of* Elbonia.
 
 ### unions, joins, ...
