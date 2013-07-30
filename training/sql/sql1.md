@@ -44,7 +44,7 @@ Please write a query for all countries that end with 'stan', such as Turkmenista
 
 Please write a query for all countries that call themselves a 'Republic', and sort the results from Z to A.
 
-Please write a query for all countries that either begin with a vowel ('A', 'E', 'I', 'O', 'U') **and** end in 'ia', such as Albania.
+Please write a query for all countries that begin with a vowel ('A', 'E', 'I', 'O', 'U') **and** end in 'ia', such as Albania.
 
 ### Data Manipulation
 
