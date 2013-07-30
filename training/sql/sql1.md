@@ -48,8 +48,8 @@ Please write a query for all countries that either begin with a vowel ('A', 'E',
 
 ### Data Manipulation
 
-insert
+Using the [insert]() statement, add a new country of your imagination to the table.
 
-update
+There was a revolution in your imaginary country! Using the [update]() statement, change your country's name from Foobaria to *The People's Democratic Republic of* Foobaria.
 
 ### unions, joins, ...
