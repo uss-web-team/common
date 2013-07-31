@@ -60,4 +60,4 @@ The `EMPLOYEE` table and the `BIOGRAPHY` table both carry a `UNID` column.
 
 Use an [inner join](http://en.wikipedia.org/wiki/Join_%28SQL%29#Inner_join) to query corresponding `EMPLOYEE.FULL_NAME` and `BIOGRAPHY.BIO_CONTENT` data.
 
-After you're done experimenting, read about [database normalization](https://en.wikipedia.org/wiki/Database_normalization).
+After you're done experimenting with joins, read about [database normalization](https://en.wikipedia.org/wiki/Database_normalization).
