@@ -13,7 +13,7 @@ For starters, please read:
 
 ## Exercise
 
-Connect to the following URL (ask a coworker for login credentials):
+Using a client program (SQL Developer is installed on your workstation), connect to the following URL (ask a coworker for login credentials):
 
 ```
 jdbc:oracle:thin:@dev10db.it.utah.edu:1528:dev10
