@@ -58,6 +58,6 @@ Remember to **rollback** your changes when you're done experimenting.
 
 The `EMPLOYEE` table and the `BIOGRAPHY` table both carry a `UNID` column.
 
-Use the [join]() expression to query corresponding `EMPLOYEE.FULL_NAME` and `BIOGRAPHY.BIO_CONTENT` data.
+Use an [inner join](http://en.wikipedia.org/wiki/Join_%28SQL%29#Inner_join) to query corresponding `EMPLOYEE.FULL_NAME` and `BIOGRAPHY.BIO_CONTENT` data.
 
 After you're done experimenting, read about [database normalization](https://en.wikipedia.org/wiki/Database_normalization).
