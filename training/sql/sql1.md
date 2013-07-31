@@ -48,10 +48,16 @@ Please write a query for all countries that begin with a vowel ('A', 'E', 'I', '
 
 ### Data Manipulation
 
-Using the [insert](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_9014.htm#i2163698) statement, add a new country of your imagination to the table.
+Using the [insert](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_9014.htm#i2163698) statement, add a new country of your imagination to the `COUNTRY` table.
 
 There was a revolution in your imaginary country! Using the [update](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10007.htm#i2067715) statement, try to change your country's name from Elbonia to *The People's Democratic Republic of* Elbonia.
 
 Remember to **rollback** your changes when you're done experimenting.
 
-### unions, joins, ...
+### Joining Tables
+
+The `EMPLOYEE` table and the `BIOGRAPHY` table both carry a `UNID` column.
+
+Use the [join]() expression to query corresponding `EMPLOYEE.FULL_NAME` and `BIOGRAPHY.BIO_CONTENT` data.
+
+After you're done experimenting, read about [database normalization](https://en.wikipedia.org/wiki/Database_normalization).
