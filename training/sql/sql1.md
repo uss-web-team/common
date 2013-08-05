@@ -52,7 +52,7 @@ Using the [insert](http://docs.oracle.com/cd/B19306_01/server.102/b14200/stateme
 
 There was a revolution in your imaginary country! Using the [update](http://docs.oracle.com/cd/B19306_01/server.102/b14200/statements_10007.htm#i2067715) statement, try to change your country's name from Elbonia to *The Free People's Liberated Democratic Republic of* Elbonia.
 
-Remember to **rollback** your changes when you're done experimenting.
+Remember that the quote character `'` needs to be escaped with two quote characters `''` and don't forget to **rollback** your changes when you're done experimenting.
 
 ### Joining Tables
 
